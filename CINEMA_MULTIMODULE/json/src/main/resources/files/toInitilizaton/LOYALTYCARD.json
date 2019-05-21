@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "expirationDate": "2022-01-12",
+    "discount": 5,
+    "moviesNumberId": 5
+  },
+  {
+    "id": 2,
+    "expirationDate": "2022-01-12",
+    "discount": 5,
+    "moviesNumberId": 5
+  },
+  {
+    "id": 3,
+    "expirationDate": "2022-01-12",
+    "discount": 5,
+    "moviesNumberId": 5
+  }
+]

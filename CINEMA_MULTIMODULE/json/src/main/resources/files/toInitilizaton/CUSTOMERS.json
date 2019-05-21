@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Piotr",
+    "surname": "Piotrowski",
+    "age": 23,
+    "email": "piter@jol.com",
+    "loyaltyCardId": 1
+  },
+  {
+    "id": 2,
+    "name": "Stanislaw",
+    "surname": "Aniol",
+    "age": 66,
+    "email": "michu@foo.pl",
+    "loyaltyCardId": 2
+  },
+  {
+    "id": 3,
+    "name": "Tomek",
+    "surname": "Kadulski",
+    "age": 28,
+    "email": "kadul@cool.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 4,
+    "name": "Grzegorz",
+    "surname": "Dlugi",
+    "age": 51,
+    "email": "greg@foo.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 5,
+    "name": "Damian",
+    "surname": "Krzyk",
+    "age": 35,
+    "email": "damiankr@too.pl",
+    "loyaltyCardId": 3
+  },
+  {
+    "id": 6,
+    "name": "Ewa",
+    "surname": "Koza",
+    "age": 46,
+    "email": "ewak@too.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 7,
+    "name": "Adam",
+    "surname": "Lupa",
+    "age": 2,
+    "email": "adi@adi.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 8,
+    "name": "Robert",
+    "surname": "Kowalski",
+    "age": 35,
+    "email": "rkowalski@iuj.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 9,
+    "name": "Ola",
+    "surname": "Nowak",
+    "age": 21,
+    "email": "onowak@you.pl",
+    "loyaltyCardId": 0
+  },
+  {
+    "id": 10,
+    "name": "Ala",
+    "surname": "Wnuk",
+    "age": 18,
+    "email": "ala@o2.pl",
+    "loyaltyCardId": 0
+  }
+]

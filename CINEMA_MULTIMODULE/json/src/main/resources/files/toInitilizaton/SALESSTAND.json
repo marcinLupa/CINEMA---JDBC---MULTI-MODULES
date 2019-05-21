@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "moviesId": 1,
+    "customerId": 6,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }
+  },
+  {
+    "id": 2,
+    "moviesId": 4,
+    "customerId": 6,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 3,
+    "moviesId": 4,
+    "customerId": 1,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 4,
+    "moviesId": 4,
+    "customerId": 1,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 5,
+    "moviesId": 6,
+    "customerId": 1,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 6,
+    "moviesId": 8,
+    "customerId": 1,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 7,
+    "moviesId": 2,
+    "customerId": 1,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 8,
+    "moviesId": 5,
+    "customerId": 2,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 9,
+    "moviesId": 7,
+    "customerId": 2,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 10,
+    "moviesId": 2,
+    "customerId": 2,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 11,
+    "moviesId": 5,
+    "customerId": 3,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 12,
+    "moviesId": 6,
+    "customerId": 4,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 13,
+    "moviesId": 1,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 14,
+    "moviesId": 2,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 15,
+    "moviesId": 3,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 16,
+    "moviesId": 2,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 17,
+    "moviesId": 5,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 18,
+    "moviesId": 8,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 19,
+    "moviesId": 7,
+    "customerId": 5,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 20,
+    "moviesId": 5,
+    "customerId": 8,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 21,
+    "moviesId": 4,
+    "customerId": 8,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 22,
+    "moviesId": 2,
+    "customerId": 9,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 23,
+    "moviesId": 1,
+    "customerId": 9,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  },
+  {
+    "id": 24,
+    "moviesId": 6,
+    "customerId": 10,
+    "startDateTime": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 12
+      },
+      "time": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }  }
+]
